@@ -1,4 +1,9 @@
 # Exercice PHP / OO
+## Correction
+Ce dossier contient la correction de l'exercice se trouvant à l'adresse:
+
+https://github.com/WebDevCF2m2020/exe-mapping-crud-oo
+
 ## Préambule
 Vous pouvez déjà vous connecter avec les logins et mots de passe se trouvant dans la DB, et la structure du site est quasiment complète.
 
